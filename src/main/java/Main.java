@@ -4,5 +4,6 @@ public class Main {
 		System.out.println("Dev Branch");
 		System.out.println("Another message from the dev branch");
 		FeatureOne one = new FeatureOne();
+		System.out.println("reverted merge of feature two");
 	}
 }
